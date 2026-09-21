@@ -1,0 +1,1 @@
+{"name":"rentpilot-vercel","version":"1.0.0","private":true,"scripts":{"dev":"vercel dev"},"dependencies":{"@supabase/supabase-js":"^2.57.4","exceljs":"^4.4.0"},"devDependencies":{"vercel":"^48.4.0"}}
